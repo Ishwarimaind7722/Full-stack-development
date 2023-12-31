@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(168, 128, 205);
+}
+.container{
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    
+}
+h1{
+    color: yellow;
+}
+p{
+    font-size: 20px;
+    color: white;
+}
+nav{
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+   
+li, a{
+    background-color: cornsilk;
+    margin: 10px;
+    padding: 10px;
+    
+}
